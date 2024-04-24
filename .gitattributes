@@ -1,0 +1,8 @@
+# Set common image types to binary so that Git doesn't modify them
+*.bmp binary
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.svg binary
+*.tiff binary
